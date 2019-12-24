@@ -53,5 +53,3 @@ def between_markers(text: str, begin: str, end: str) -> str:
 
         
 print(between_markers("What is >apple<",">","<"))
-a = "012345"
-print(a[None:None])
